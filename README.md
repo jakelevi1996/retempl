@@ -34,11 +34,11 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 ## Related work
 
-- What are 3 or 4 research themes relevant to the project?
+- What are the research themes that are most relevant to the research questions?
   - ...
-- What are 5-10 relevant papers in each theme?
+- What are the most relevant papers in each theme?
   - ...
-- How can these 15-40 papers be used to argue that the research questions are necessary?
+- How can these papers be used to argue that the research questions are necessary?
   - ...
 
 ## Methods
