@@ -25,16 +25,16 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 ## Introduction
 
-- What is the research question?
+- What are the research questions?
   - ...
 - Why should anyone care?
   - ...
-- What is the minimal and necessary background that someone in the target audience should know before reading this paper? (high-level only, technical details in separate "Background" section if needed)
+- What is the minimal and necessary background that someone in the target audience should know before reading on? (high-level only, technical details in separate "Background" section if needed)
   - ...
 
 ## Related work
 
-- What are the research themes that are most relevant to the research questions?
+- Which research themes are most relevant to the research questions?
   - ...
 - What are the most relevant papers in each theme?
   - ...
