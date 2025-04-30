@@ -56,7 +56,9 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 ## Discussion
 
-- What is the meaning, significance, and potential impact of the results?
+- What is the meaning and significance of the results?
   - ...
 - How do the results relate to existing work?
+  - ...
+- What is the potential impact of the results?
   - ...
