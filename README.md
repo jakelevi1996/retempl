@@ -22,6 +22,7 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
   - [Experiments](#experiments)
   - [Results](#results)
   - [Discussion](#discussion)
+  - [Future work](#future-work)
 
 ## Introduction
 
@@ -45,7 +46,7 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 ## Methods
 
-...
+- ...
 
 ## Experiments
 
@@ -64,3 +65,7 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
   - ...
 - What is the potential impact of the results?
   - ...
+
+## Future work
+
+- ...
