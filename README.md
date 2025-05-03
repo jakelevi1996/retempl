@@ -50,7 +50,7 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 ## Experiments
 
-- What is the `minimal` sequence of experiments necessary to `answer the research questions`?
+- What is the `minimal` sequence of experiments necessary to convincingly and quantitatively `answer the research questions`?
   - ...
 
 ## Results
