@@ -26,7 +26,7 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 ## Introduction
 
-- What are the *research questions*?
+- What are the `research questions`?
   - ...
 - Why should anyone care?
   - ...
@@ -41,7 +41,7 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
   - ...
 - What are the most relevant papers in each theme?
   - ...
-- How can these papers be used to argue that *the research questions are necessary*?
+- How can these papers be used to argue that `the research questions are necessary`?
   - ...
 
 ## Methods
@@ -50,7 +50,7 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 ## Experiments
 
-- What is the *minimal* sequence of experiments necessary to *answer the research questions*?
+- What is the `minimal` sequence of experiments necessary to `answer the research questions`?
   - ...
 
 ## Results
@@ -61,7 +61,7 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 - What is the meaning and significance of the results?
   - ...
-- What is the *answer to the research questions*?
+- What is the `answer to the research questions`?
   - ...
 - How do the results relate to existing work?
   - ...
