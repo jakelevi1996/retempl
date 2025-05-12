@@ -52,8 +52,6 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 - What is the `minimal` sequence of experiments necessary to convincingly and quantitatively `answer the research questions`?
   - ...
-- What is the approximate duration of each experiment (estimated from a small number of batches or epochs)?
-  - ...
 
 ## Results
 
