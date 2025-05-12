@@ -14,7 +14,7 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 Significant credit is due to my PhD supervisor [Professor Mark van der Wilk](https://mvdw.uk/) for encouraging me to internalise these thought processes.
 
-Credit is also due to an old [Tweet](https://x.com/AdrianoAguzzi/status/1806250517204463930) from [@AdrianoAguzzi](https://x.com/AdrianoAguzzi) explaining what makes a good "Discussion" section (although that Tweet appears to no longer exist, so it's good thing I made some notes on it).
+Credit is also due to an old [Tweet](https://x.com/AdrianoAguzzi/status/1806250517204463930) from [@AdrianoAguzzi](https://x.com/AdrianoAguzzi) explaining what makes a good [Discussion](#discussion) section (although that Tweet appears to no longer exist, so it's good that I made notes on it).
 
 ## Contents
 
