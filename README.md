@@ -12,6 +12,8 @@ This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://githu
 
 > This `README` was adapted from [`github.com/jakelevi1996/retempl`](https://github.com/jakelevi1996/retempl) ([license](https://github.com/jakelevi1996/retempl/blob/main/LICENSE)).
 
+Significant credit is due to my PhD supervisor [Professor Mark van der Wilk](https://mvdw.uk/) for encouraging me to internalise these thought processes.
+
 ## Contents
 
 - [Research project template](#research-project-template)
