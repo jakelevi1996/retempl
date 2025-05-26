@@ -16,7 +16,7 @@ Significant credit is due to my PhD supervisor [Professor Mark van der Wilk](htt
 
 Credit is also due to an old [Tweet](https://x.com/AdrianoAguzzi/status/1806250517204463930) from [@AdrianoAguzzi](https://x.com/AdrianoAguzzi) explaining what a good [Discussion](#discussion) section looks like (although that Tweet appears to no longer exist, so it's good that I took notes).
 
-Before writing down any [research questions](https://en.wikipedia.org/wiki/Research_question), it is sensible to do some research about [what makes a *good* research question](https://www.scribbr.co.uk/the-research-process/research-question/). For example, a research question should be `focused`, `specific`, `complex`, `feasible`, and `important` to you and others.
+Before asking any [research questions](https://en.wikipedia.org/wiki/Research_question), it is sensible to do some research about [what makes a *good* research question](https://www.scribbr.co.uk/the-research-process/research-question/). For example, a research question should be `focused`, `specific`, `complex`, `feasible`, and `important` to you and others.
 
 A popular framework for goal-setting in general (which is relevant to asking research questions) is [SMART](https://en.wikipedia.org/wiki/SMART_criteria), which recommends that a goal should be `specific`, `measurable`, `achievable`, `relevant`, and `time-bound`.
 
