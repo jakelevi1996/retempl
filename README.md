@@ -18,6 +18,8 @@ Credit is also due to an old [Tweet](https://x.com/AdrianoAguzzi/status/18062505
 
 Before writing down any [research questions](https://en.wikipedia.org/wiki/Research_question), you can save yourself some hassle by doing some research about [what makes a *good* research question](https://www.scribbr.co.uk/the-research-process/research-question/). For example, a research question should be `focused`, `specific`, `complex`, `feasible`, and `important` to you and others.
 
+A popular framework for goal-setting in general (which is relevant to asking research questions) is [SMART](https://en.wikipedia.org/wiki/SMART_criteria), which recommends that a goal should be `specific`, `measurable`, `achievable`, `relevant`, and `time-bound`.
+
 ## Contents
 
 - [Research project template](#research-project-template)
