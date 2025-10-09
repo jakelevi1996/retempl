@@ -20,6 +20,19 @@ Before asking any [research questions](https://en.wikipedia.org/wiki/Research_qu
 
 A popular framework for goal-setting in general (which is relevant to asking research questions) is [SMART](https://en.wikipedia.org/wiki/SMART_criteria), which recommends that a goal should be `specific`, `measurable`, `achievable`, `relevant`, and `time-bound`.
 
+[Megan A. K. Peters](https://sites.google.com/site/meganakpeters) wrote an article in Nature Human Behaviour called [How to develop good research questions](https://www.nature.com/articles/s41562-025-02292-5), arguing that the common adjectives `clear`, `focused`, `relevant`, `novel` and `tractable` are insufficient, and that research questions should be driven by enthusiasm, through a process containing 4 phases and 4 traps:
+
+- Phases:
+  - Phase 1: a self-critical brainstorm
+  - Phase 2: building context and connections
+  - Phase 3: distilling to the essence
+  - Phase 4: the final product
+- Traps:
+  - Trap 1: the ‘hypothesis requirement’
+  - Trap 2: excessive attachment to your question(s)
+  - Trap 3: ‘oh no, someone already had my idea!’
+  - Trap 4: the ‘hammer and nail’ trap
+
 ## Contents
 
 - [Research project template](#research-project-template)
