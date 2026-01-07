@@ -37,6 +37,7 @@ A popular framework for goal-setting in general (which is relevant to asking res
 
 - [Research project template](#research-project-template)
   - [Contents](#contents)
+  - [Research questions](#research-questions)
   - [Introduction](#introduction)
   - [Related work](#related-work)
   - [Methods](#methods)
@@ -44,6 +45,10 @@ A popular framework for goal-setting in general (which is relevant to asking res
   - [Results](#results)
   - [Discussion](#discussion)
   - [Future work](#future-work)
+
+## Research questions
+
+1. ...
 
 ## Introduction
 
@@ -54,8 +59,6 @@ A popular framework for goal-setting in general (which is relevant to asking res
 - What's missing from existing understanding/solutions?
   - ...
 - What are the main challenges?
-  - ...
-- What are the `research questions`?
   - ...
 - What is a high-level outline of the method?
   - ...
